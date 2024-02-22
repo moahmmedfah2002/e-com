@@ -70,7 +70,7 @@
 										<ul>
 											<li><a class="search-open" href="#"><i class="zmdi zmdi-search"></i></a></li>
 											<li><a href="login.jsp"><i class="zmdi zmdi-lock"></i></a></li>
-											<li><a href="my-account.html"><i class="zmdi zmdi-account"></i></a></li>
+											<li><a href="profile"><i class="zmdi zmdi-account"></i></a></li>
 											<li><a href="wishlist.html"><i class="zmdi zmdi-favorite"></i></a></li>
 										</ul>
 									</div>
@@ -258,7 +258,7 @@
 										<li><a href="checkout.html">Checkout</a></li>
 										<li><a href="order.html">Order</a></li>
 										<li><a href="login.jsp">login / Registration</a></li>
-										<li><a href="my-account.html">My Account</a></li>
+										<li><a href="profile">My Account</a></li>
 										<li><a href="404.html">404</a></li>
 										<li><a href="blog.html">Blog</a></li>
 										<li><a href="single-blog.html">Single Blog</a></li>
@@ -306,7 +306,7 @@
 												<li><a href="checkout.html">Checkout</a></li>
 												<li><a href="order.html">Order</a></li>
 												<li><a href="login.jsp">login / Registration</a></li>
-												<li><a href="my-account.html">My Account</a></li>
+												<li><a href="profile">My Account</a></li>
 												<li><a href="404.html">404</a></li>
 												<li><a href="blog.html">Blog</a></li>
 												<li><a href="single-blog.html">Single Blog</a></li>
@@ -1329,7 +1329,7 @@
 								<div class="single-footer">
 									<h3 class="footer-title  title-border">accounts</h3>
 									<ul class="footer-menu">
-										<li><a href="#"><i class="zmdi zmdi-dot-circle"></i>My Account</a></li>
+										<li><a href="profile"><i class="zmdi zmdi-dot-circle"></i>My Account</a></li>
 										<li><a href="#"><i class="zmdi zmdi-dot-circle"></i>My Wishlist</a></li>
 										<li><a href="#"><i class="zmdi zmdi-dot-circle"></i>My Cart</a></li>
 										<li><a href="#"><i class="zmdi zmdi-dot-circle"></i>Sign In</a></li>

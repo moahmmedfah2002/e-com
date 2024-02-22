@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 	
-<!-- Mirrored from template.hasthemes.com/hurst-v1/hurst/my-account.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 11:08:45 GMT -->
+<!-- Mirrored from template.hasthemes.com/hurst-v1/hurst/profile.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 11:08:45 GMT -->
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -37,7 +37,7 @@
 		<!-- All common css of theme -->
 		<link rel="stylesheet" href="css/default.css">
 		<!-- style css -->
-		<link rel="stylesheet" href="style.min.css">
+		<link rel="stylesheet" href="templates/style.min.css">
         <!-- shortcode css -->
         <link rel="stylesheet" href="css/shortcode.css">
 		<!-- responsive css -->
@@ -666,5 +666,5 @@
 		<script src="js/main.min.js"></script>
 	</body>
 
-<!-- Mirrored from template.hasthemes.com/hurst-v1/hurst/my-account.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 11:08:45 GMT -->
+<!-- Mirrored from template.hasthemes.com/hurst-v1/hurst/profile.jsp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 11:08:45 GMT -->
 </html>
