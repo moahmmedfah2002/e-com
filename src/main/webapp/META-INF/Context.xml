@@ -1,0 +1,13 @@
+
+<Context>
+
+    <Resource
+            name="jdbc/myDatabase"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://mysql-3a17bb18-fahlaouimohammed-0d14.a.aivencloud.com:18736/e-comm"
+            type="javax.sql.DataSource"
+            username="avnadmin"
+            password="AVNS_UZIMfdcPHMAOUps-eD7"
+            auth="Container"
+            maxActive="8" />
+</Context>
